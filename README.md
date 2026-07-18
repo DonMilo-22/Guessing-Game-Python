@@ -30,6 +30,3 @@ Execute the script from the terminal:
 python3 "Game v1.0.py"
 ```
 Follow the on‑screen prompts (in Spanish) to guess the number.
-
-## License
-This project is released under the MIT License – see the `LICENSE` file for details.
